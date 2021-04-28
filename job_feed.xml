@@ -8,9 +8,9 @@
     <date datatype="string"><![CDATA[2018-07-29 01:08:29.013]]></date>
     <id datatype="string"><![CDATA[1111]]></id>
     <description datatype="string"><![CDATA[Reclaim chairs from those who might seek to take them.]]></description>
-    <company-name datatype="string"><![CDATA[[FB Test Page] [FB-Only] Hack test]]></company-name>
-    <company-id datatype="string"><![CDATA[1557148840975892]]></company-id>
-    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/Polar-Bears-For-Beach-Volleyball-105562657987451/]]></company-facebook-url>
+    <company-name datatype="string"><![CDATA[EJA Test]]></company-name>
+    <company-id datatype="string"><![CDATA[1557148840975893]]></company-id>
+    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/FB-Test-Page-Enterprise-Job-Ads-Test-1001945181949/]]></company-facebook-url>
     <salary-max>1338</salary-max>
     <salary-min>1336</salary-min>
     <salary-currency datatype="string"><![CDATA[USD]]></salary-currency>
@@ -30,85 +30,4 @@
     <campaign-id><![CDATA[666]]></campaign-id>
     <bid>5.0</bid>
   </job>
-  <job>
-    <title datatype="string"><![CDATA[Chair Sitter]]></title>
-    <date datatype="string"><![CDATA[2018-07-29 01:08:29.013]]></date>
-    <id datatype="string"><![CDATA[2222]]></id>
-    <description datatype="string"><![CDATA[Sit in chairs and enjoy them.]]></description>
-    <company-name datatype="string"><![CDATA[[FB Test Page] [FB-Only] Hack test]]></company-name>
-    <company-id datatype="string"><![CDATA[1557148840975892]]></company-id>
-    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/Polar-Bears-For-Beach-Volleyball-105562657987451/]]></company-facebook-url>
-    <salary-max>1</salary-max>
-    <salary-currency datatype="string"><![CDATA[USD]]></salary-currency>
-    <salary-type datatype="string"><![CDATA[HOURLY]]></salary-type>
-    <job-type datatype="string"><![CDATA[PART_TIME]]></job-type>
-    <facebook-apply-data>
-      <application-callback-url datatype="string"><![CDATA[https://pacific-wave-11361.herokuapp.com/application?id=b]]></application-callback-url>
-    </facebook-apply-data>
-    <city datatype="string"><![CDATA[Menlo Park]]></city>
-    <country datatype="string"><![CDATA[US]]></country>
-    <street-name datatype="string" />
-    <region datatype="string"><![CDATA[CA]]></region>
-    <postal-code datatype="string" />
-    <company-full-address datatype="string"><![CDATA[Menlo Park, CA, US]]></company-full-address>
-    <photo-url><![CDATA[https://pacific-wave-11361.herokuapp.com/public/coolpic.png]]></photo-url>
-    <sponsored><![CDATA[true]]></sponsored>
-    <campaign-id><![CDATA[666]]></campaign-id>
-    <bid>10.0</bid>
-  </job>
-  <job>
-    <title datatype="string"><![CDATA[Couch Surfer]]></title>
-    <date datatype="string"><![CDATA[2018-07-29 01:08:29.013]]></date>
-    <id datatype="string"><![CDATA[3333]]></id>
-    <description datatype="string"><![CDATA[Surf on couches. Chairs are so 2016.]]></description>
-    <company-name datatype="string"><![CDATA[[FB Test Page] [FB-Only] Hack test]]></company-name>
-    <company-id datatype="string"><![CDATA[1557148840975892]]></company-id>
-    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/Polar-Bears-For-Beach-Volleyball-105562657987451/]]></company-facebook-url>
-    <job-type datatype="string"><![CDATA[VOLUNTEER]]></job-type>
-    <facebook-apply-data>
-      <application-callback-url datatype="string"><![CDATA[https://pacific-wave-11361.herokuapp.com/application?id=c]]></application-callback-url>
-    </facebook-apply-data>
-    <city datatype="string"><![CDATA[Menlo Park]]></city>
-    <country datatype="string"><![CDATA[US]]></country>
-    <street-name datatype="string" />
-    <region datatype="string"><![CDATA[CA]]></region>
-    <postal-code datatype="string" />
-    <company-full-address datatype="string"><![CDATA[Menlo Park, CA, US]]></company-full-address>
-    <photo-url><![CDATA[https://pacific-wave-11361.herokuapp.com/public/coolpic.png]]></photo-url>
-    <sponsored><![CDATA[true]]></sponsored>
-    <campaign-id><![CDATA[666]]></campaign-id>
-    <bid>10.0</bid>
-  </job>
-  <job>
-    <title datatype="string"><![CDATA[Sofa King]]></title>
-    <date datatype="string"><![CDATA[2018-07-29 01:08:29.013]]></date>
-    <id datatype="string"><![CDATA[4444]]></id>
-    <description datatype="string"><![CDATA[Lounge out and claim your rightful place as the king of a sofa.]]></description>
-    <company-name datatype="string"><![CDATA[[FB Test Page] [FB-Only] Hack test]]></company-name>
-    <company-id datatype="string"><![CDATA[1557148840975892]]></company-id>
-    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/Polar-Bears-For-Beach-Volleyball-105562657987451/]]></company-facebook-url>
-    <salary><![CDATA[5]]></salary>
-    <salary-type><![CDATA[HOURLY]]></salary-type>
-    <job-type datatype="string"><![CDATA[PART_TIME]]></job-type>
-    <facebook-apply-data>
-      <application-callback-url datatype="string"><![CDATA[https://pacific-wave-11361.herokuapp.com/application?id=d]]></application-callback-url>
-    </facebook-apply-data>
-    <city datatype="string"><![CDATA[Menlo Park]]></city>
-    <country datatype="string"><![CDATA[US]]></country>
-    <street-name datatype="string" />
-    <region datatype="string"><![CDATA[CA]]></region>
-    <postal-code datatype="string" />
-    <company-full-address datatype="string"><![CDATA[Menlo Park, CA, US]]></company-full-address>
-    <photo-url><![CDATA[https://pacific-wave-11361.herokuapp.com/public/coolpic.png]]></photo-url>
-    <sponsored><![CDATA[true]]></sponsored>
-    <campaign-id><![CDATA[666]]></campaign-id>
-    <bid>10.0</bid>
-  </job>
-  <campaign>
-    <id><![CDATA[666]]></id>
-    <budget><![CDATA[50]]></budget>
-    <bid><![CDATA[10]]></bid>
-    <bid-type><![CDATA[CPA]]></bid-type>
-    <budget-optimization><![CDATA[true]]></budget-optimization>
-  </campaign>
 </source>
