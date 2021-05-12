@@ -3,7 +3,37 @@
   <publisher-name><![CDATA[Free Our Chair]]></publisher-name>
   <publisher-url><![CDATA[http://www.facebook.com/freeourchair]]></publisher-url>
   <last-build-date><![CDATA[2018-08-10 12:05:00.638]]></last-build-date>
-  <job>
+   <job>
+    <title datatype="string"><![CDATA[Chair Reclaimer]]></title>
+    <date datatype="string"><![CDATA[2021-04-29 01:08:29.013]]></date>
+    <id datatype="string"><![CDATA[222]]></id>
+    <description datatype="string"><![CDATA[Some offsite Job]]></description>
+    <company-name datatype="string"><![CDATA[EJA Test]]></company-name>
+    <company-id datatype="string"><![CDATA[1557148840975893]]></company-id>
+    <company-facebook-url datatype="string"><![CDATA[https://www.facebook.com/FB-Test-Page-Enterprise-Job-Ads-Test-1001945181949/]]></company-facebook-url>
+    <salary-max>1338</salary-max>
+    <salary-min>1336</salary-min>
+    <salary-currency datatype="string"><![CDATA[USD]]></salary-currency>
+    <salary-type datatype="string"><![CDATA[YEARLY]]></salary-type>
+    <job-type datatype="string"><![CDATA[INTERNSHIP]]></job-type>
+    <facebook-apply-data>
+      <application-flow><![CDATA[offsite]]></application-flow>
+      <offsite-application-url>
+        <![CDATA[https://www.google.com]]>
+      </offsite-application-url>
+    </facebook-apply-data>
+    <city datatype="string"><![CDATA[Menlo Park]]></city>
+    <country datatype="string"><![CDATA[US]]></country>
+    <street-name datatype="string" />
+    <region datatype="string"><![CDATA[CA]]></region>
+    <postal-code datatype="string" />
+    <company-full-address datatype="string"><![CDATA[Menlo Park, CA, US]]></company-full-address>
+    <photo-url><![CDATA[https://pacific-wave-11361.herokuapp.com/public/coolpic.png]]></photo-url>
+    <sponsored><![CDATA[true]]></sponsored>
+    <campaign-id><![CDATA[666]]></campaign-id>
+    <bid>5.0</bid>
+  </job>
+ <job>
     <title datatype="string"><![CDATA[Chair Reclaimer]]></title>
     <date datatype="string"><![CDATA[2021-04-29 01:08:29.013]]></date>
     <id datatype="string"><![CDATA[111111]]></id>
